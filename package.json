@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KhristoSho/JS-HW1.git"
+    "url": "git+https://github.com/KhristoSho/npnPackage"
   },
   "keywords": [
     "game"
@@ -18,9 +18,9 @@
   "author": "Khristo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KhristoSho/JS-HW1/issues"
+    "url": "https://github.com/KhristoSho/npnPackage/issues"
   },
-  "homepage": "https://github.com/KhristoSho/JS-HW1#readme",
+  "homepage": "https://github.com/KhristoSho/npnPackage#readme",
   "devDependencies": {
     "@babel/cli": "^7.28.6",
     "@babel/core": "^7.29.0",
